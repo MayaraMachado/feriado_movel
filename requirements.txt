@@ -1,0 +1,8 @@
+Django==3.0.7  
+djangorestframework==3.11.0 
+psycopg2-binary==2.8.5  
+python-decouple==3.3    
+pytest==5.4.3
+pytest-django==3.9.0
+pytest-cov==2.10.0
+django-heroku
